@@ -3,12 +3,16 @@
   "username": "siriiuss",
   "name": "Ahmet Duran",
   "userimg": "https://avatars.githubusercontent.com/u/66683435?v=4",
-  "sort": "created",
+  "sort": "updated",
   "order": "asc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "all"
-  ]
+   "owner"
+  ],
+  "twitter": null,
+  "linkedin": null,
+  "medium": null,
+  "dribbble": null
  }
 ]
