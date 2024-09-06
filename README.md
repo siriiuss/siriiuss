@@ -9,3 +9,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=siriiuss&icon=5&color=12)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=siriiuss)
+[![](https://visitcount.itsvg.in/api?id=siriiuss&label=Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
