@@ -7,6 +7,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siriiuss&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siriiuss&icon=5&color=12)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=siriiuss)
 [![](https://visitcount.itsvg.in/api?id=siriiuss&label=Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
